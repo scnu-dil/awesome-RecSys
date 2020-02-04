@@ -29,6 +29,9 @@ Papers and works on Recommendation System(RecSys) you must know
 | **DIN**: DIN: Deep Interest Network for Click-Through Rate Prediction |    KDD'2018    | [[pdf]](https://arxiv.org/abs/1706.06978) [[Tensorflow]](https://github.com/zhougr1993/DeepInterestNetwork) |
 | **DIEN**: DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction |   AAAI'2019    | [[pdf]](https://arxiv.org/abs/1809.03672) [[Tensorflow]](https://github.com/mouna99/dien) |
 | **DSIN**: Deep Session Interest Network for Click-Through Rate Prediction |   IJCAI'2019   | [[pdf]](https://arxiv.org/abs/1905.06482)[[Tensorflow]](https://github.com/shenweichen/DSIN) |
+| **AutoInt**: Automatic Feature Interaction Learning via Self-Attentive Neural Networks |   CIKM'2019    | [[pdf]](https://arxiv.org/abs/1810.11921)[[Tensorflow]](https://github.com/shichence/AutoInt) |
+
+
 
 ### Sequence-based Recommendations
 
