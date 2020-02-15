@@ -43,7 +43,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **Time-LSTM**:What to Do Next: Modeling User Behaviors by Time-LSTM |     IJCAI'2017     | [[pdf]](http://static.ijcai.org/proceedings-2017/0504.pdf) [[code]](https://github.com/DarryO/time_lstm) |
 | **Caser**:Personalized Top-N Sequential Recommendation via Convolutional Sequence EmbeddingCaser |     WSDM'2018      | [[pdf]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf) [[code]](https://github.com/graytowne/caser_pytorch) |
 | **SASRec**:Self-Attentive Sequential Recommendation          |     ICDM'2018      | [[pdf]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf)[[code]](https://github.com/kang205/SASRec) |
-| **BERT4Rec**:BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer | ACM WOODSTOCK’2019 | [[pdf]](https://arxiv.org/abs/1904.06690)[[code]](Not available yet) |
+| **BERT4Rec**:BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer | ACM WOODSTOCK’2019 | [[pdf]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec) |
 | **SR-GNN**: Session-based Recommendation with Graph Neural Networks |     AAAI'2019      | [[pdf]](https://arxiv.org/pdf/1811.00855v4.pdf) [[code]](https://github.com/CRIPAC-DIG/SR-GNN) |
 
 
