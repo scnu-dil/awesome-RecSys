@@ -65,6 +65,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **PMF**: Probabilistic Matrix Factorization                  |       NIPS'2007       | [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/fuhailin/Probabilistic-Matrix-Factorization) |
 | **CDL**:Collaborative Deep Learning for Recommender Systems  |       KDD '2015       | [[pdf]](https://arxiv.org/pdf/1409.2944.pdf)[[code]](https://github.com/akash13singh/mxnet-for-cdl)[[PPT]](http://www.wanghao.in/mis/CDL.pdf) |
 | **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation |      RecSys'2016      | [[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code]](https://github.com/cartopy/ConvMF)[[zhihu]](https://zhuanlan.zhihu.com/p/27070343)[[PPT]](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf) |
+| **NCF**:Neural Collaborative Filtering                       |        WWW '17        | [pdf](https://arxiv.org/pdf/1708.05031.pdf)[code](https://github.com/hexiangnan/neural_collaborative_filtering) |
 
 ### Other
 DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)  [[code]](https://github.com/layer6ai-labs/DropoutNet)
