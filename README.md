@@ -30,6 +30,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **DIEN**: DIEN: Deep Interest Evolution Network for Click-Through Rate Prediction |   AAAI'2019    | [[pdf]](https://arxiv.org/abs/1809.03672) [[Tensorflow]](https://github.com/mouna99/dien) |
 | **DSIN**: Deep Session Interest Network for Click-Through Rate Prediction |   IJCAI'2019   | [[pdf]](https://arxiv.org/abs/1905.06482)[[Tensorflow]](https://github.com/shenweichen/DSIN) |
 | **AutoInt**: Automatic Feature Interaction Learning via Self-Attentive Neural Networks |   CIKM'2019    | [[pdf]](https://arxiv.org/abs/1810.11921)[[Tensorflow]](https://github.com/shichence/AutoInt) |
+| **FiBiNET**: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction |   RecSys '19   | [[pdf]](https://arxiv.org/pdf/1905.09433v1.pdf)[[Tensorflow]](https://github.com/shenweichen/DeepCTR/blob/master/deepctr/models/fibinet.py) |
 
 
 
@@ -65,6 +66,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **PMF**: Probabilistic Matrix Factorization                  |       NIPS'2007       | [[pdf]](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf)  [[code]](https://github.com/fuhailin/Probabilistic-Matrix-Factorization) |
 | **CDL**:Collaborative Deep Learning for Recommender Systems  |       KDD '2015       | [[pdf]](https://arxiv.org/pdf/1409.2944.pdf)[[code]](https://github.com/akash13singh/mxnet-for-cdl)[[PPT]](http://www.wanghao.in/mis/CDL.pdf) |
 | **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation |      RecSys'2016      | [[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code]](https://github.com/cartopy/ConvMF)[[zhihu]](https://zhuanlan.zhihu.com/p/27070343)[[PPT]](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf) |
+| **NCF**:Neural Collaborative Filtering                       |        WWW '17        | [pdf](https://arxiv.org/pdf/1708.05031.pdf)[code](https://github.com/hexiangnan/neural_collaborative_filtering) |
 
 ### Other
 DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)  [[code]](https://github.com/layer6ai-labs/DropoutNet)
