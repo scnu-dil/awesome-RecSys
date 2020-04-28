@@ -31,6 +31,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **DSIN**: Deep Session Interest Network for Click-Through Rate Prediction |   IJCAI'2019   | [[pdf]](https://arxiv.org/abs/1905.06482)[[Tensorflow]](https://github.com/shenweichen/DSIN) |
 | **AutoInt**: Automatic Feature Interaction Learning via Self-Attentive Neural Networks |   CIKM'2019    | [[pdf]](https://arxiv.org/abs/1810.11921)[[Tensorflow]](https://github.com/shichence/AutoInt) |
 | **FiBiNET**: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction |   RecSys '19   | [[pdf]](https://arxiv.org/pdf/1905.09433v1.pdf)[[Tensorflow]](https://github.com/shenweichen/DeepCTR/blob/master/deepctr/models/fibinet.py) |
+| **DeepGBM**:A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks |    KDD'2019    | [[pdf]](https://www.microsoft.com/en-us/research/publication/deepgbm-a-deep-learning-framework-distilled-by-gbdt-for-online-prediction-tasks/)[[Tensorflow]](https://github.com/motefly/DeepGBM) |
 | **FLEN**: Leveraging Field for Scalable CTR Prediction       |   AAAI'2020    | [[pdf]](https://arxiv.org/pdf/1911.04690.pdf)[[Tensorflow]](https://github.com/aimetrics/jarvis) |
 
 
