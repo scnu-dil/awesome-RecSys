@@ -105,4 +105,4 @@ DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers
 
 
 ### Recommendation Systems Engineer Skill Tree
-- Skill Tree [pdf](https://github.com/fuhailin/awesome-RecSys-works/blob/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8A%80%E8%83%BD%E6%A0%91.pdf)
+- Skill Tree [pdf](Skill-Tree.pdf)
