@@ -9,6 +9,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | Real-time Personalization using Embeddings for Search Ranking at Airbnb |             KDD'2018              | Mihajlo Grbovic (Airbnb); Haibin Cheng (Airbnb)              | [[pdf]](https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb) |
 | Deep Neural Networks for YouTube Recommendations             |           RecSys '2016            | Paul Covington(Google);Jay Adams(Google);Emre Sargin(Google) | [[pdf]](https://ai.google/research/pubs/pub45530)            |
 | The Netflix Recommender System: Algorithms, Business Value, and Innovation |           ACM TMIS'2015           | Carlos A. Gomez-Uribe(Netflix);Neil Hunt(Netflix)            | [[pdf]](https://www.academia.edu/27800721/The_Netflix_Recommender_System_Algorithms_Business_Value_and_Innovation) |
+| MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search |              KDD ’19              | Baidu Search Ads (Phoenix Nest)                              | [[pdf]](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) |
 
 ### Click-Through-Rate(CTR) Prediction
 
@@ -71,7 +72,14 @@ Papers and works on Recommendation System(RecSys) you must know
 | **ConvMF**:Convolutional Matrix Factorization for Document Context-Aware Recommendation |      RecSys'2016      | [[pdf]](http://dm.postech.ac.kr/~cartopy/ConvMF/)[[code]](https://github.com/cartopy/ConvMF)[[zhihu]](https://zhuanlan.zhihu.com/p/27070343)[[PPT]](http://dm.postech.ac.kr/~cartopy/ConvMF/ConvMF_RecSys16_for_public.pdf) |
 | **NCF**:Neural Collaborative Filtering                       |        WWW '17        | [pdf](https://arxiv.org/pdf/1708.05031.pdf)[code](https://github.com/hexiangnan/neural_collaborative_filtering) |
 
+### AutoML
+
+| Titile                                                       | Booktitle | Resources                                                   |
+| :----------------------------------------------------------- | :-------: | ----------------------------------------------------------- |
+| **AutoCTR**:Towards Automated Neural Interaction Discovery for Click-Through Rate Prediction |  KDD'20   | [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403137) |
+
 ### Other
+
 DropoutNet: Addressing Cold Start in Recommender Systems. [[pdf]](https://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)  [[code]](https://github.com/layer6ai-labs/DropoutNet)
 
 ### Graph Neural Networks
