@@ -36,7 +36,12 @@ Papers and works on Recommendation System(RecSys) you must know
 | **FLEN**: Leveraging Field for Scalable CTR Prediction       |   AAAI'2020    | [[pdf]](https://arxiv.org/pdf/1911.04690.pdf)[[Tensorflow]](https://github.com/aimetrics/jarvis) |
 | **DFN**: Deep Feedback Network for Recommendation            |   IJCAI'2020   | [[pdf]]()[[Tensorflow]](https://github.com/qqxiaochongqq/DFN) |
 
-
+### Retrieval
+| Titile                                                       | Booktitle | Resources                                                    |
+| :----------------------------------------------------------- | :-------: | ------------------------------------------------------------ |
+| **DSSM**:Learning Deep Structured Semantic Models for Web Search using Clickthrough Data |  CIKM'13  | [[pdf]](https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/)[[TensorFlow]](https://github.com/baharefatemi/DSSM) |
+| **EBR**:Embedding-based Retrieval in Facebook Search         |  KDD'20   | [[pdf]](https://dl.acm.org/doi/10.1145/3394486.3403305)      |
+| **Deep Retrieval**: Learning A Retrievable Structure for Large-Scale Recommendations | arXiv'20  | [[pdf]](https://arxiv.org/abs/2007.07203v2)                  |
 
 ### Sequence-based Recommendations
 
