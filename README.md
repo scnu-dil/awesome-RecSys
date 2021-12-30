@@ -35,6 +35,7 @@ Papers and works on Recommendation System(RecSys) you must know
 | **DeepGBM**:A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks |    KDD'2019    | [[pdf]](https://www.microsoft.com/en-us/research/publication/deepgbm-a-deep-learning-framework-distilled-by-gbdt-for-online-prediction-tasks/)[[Tensorflow]](https://github.com/motefly/DeepGBM) |
 | **FLEN**: Leveraging Field for Scalable CTR Prediction       |   AAAI'2020    | [[pdf]](https://arxiv.org/pdf/1911.04690.pdf)[[Tensorflow]](https://github.com/aimetrics/jarvis) |
 | **DFN**: Deep Feedback Network for Recommendation            |   IJCAI'2020   | [[pdf]]()[[Tensorflow]](https://github.com/qqxiaochongqq/DFN) |
+| **AutoDis**: An Embedding Learning Framework for Numerical Features in CTR Prediction |    KDD ’21     | [[pdf]](https://arxiv.org/abs/2012.08986)                    |
 
 ### Retrieval
 | Titile                                                       | Booktitle | Resources                                                    |
